@@ -1,8 +1,12 @@
 # 職務経歴書
 ## 基本情報
-| key | value |
-| ------------ | ------------ |
-| ほげ | テスト |
+- 氏名：近藤 良生 （Kondo Yoshio）
+- 生年月日：1997年3月10日
+- GitHub：[yoshio15](https://github.com/yoshio15)
+- Twitter：[@yoshio_15](https://twitter.com/yoshio_15)
+- Qiita：[@oihsoy](https://qiita.com/oihsoy)
+- Zenn：[yoshio](https://zenn.dev/yoshio)
+- Blog：[Yoshio Note](https://yoshionote.com/)
 
 ## 概要
 直近では、Javaを用いたWebアプリケーションの開発に携わっております。  
@@ -13,7 +17,8 @@
 ## スキル
 
 ## 略歴
-
+- 2019.03  筑波大学人文・文化学群比較文化学類 卒業
+- 2019.04  株式会社ケアリッツ・アンド・パートナーズ 入社
 
 ## 職務経歴
 ### 株式会社ケアリッツ・アンド・パートナーズ（2019/04~）
@@ -100,5 +105,13 @@ Vim上でTrelloを使ってタスク管理を行うことができるように�
 - 参考（PR：https://github.com/skanehira/gh.vim/pull/72）
 
 ## 自己PR
+### 得意
+### 意欲・興味
 ### キャリアプラン
+
 ### 保有資格
+- 2017年 TOEIC公開テスト835点 取得
+- 2019年 ITパスポート試験　合格
+- 2019年 Java Silver SE8 合格
+- 2019年 ORALCE MASTER Bronze 12c 合格
+- 2020年 AWS 認定 ソリューションアーキテクト – アソシエイト 合格
