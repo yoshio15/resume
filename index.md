@@ -1,14 +1,14 @@
 # 職務経歴書
 ## 基本情報
-| key | value |
-| --- | ----- |
-| 氏名 | 近藤 良生 （Kondo Yoshio） |
-| 生年月日 | 1997年3月10日 |
-| GitHub | [yoshio15](https://github.com/yoshio15) |
-| Twitter | [@yoshio_15](https://twitter.com/yoshio_15) |
-| Qiita | [@oihsoy](https://qiita.com/oihsoy) |
-| Zenn | [yoshio](https://zenn.dev/yoshio) |
-| Blog | [yoshionote](https://yoshionote.com/) |
+|key|value|
+|---|---|
+|氏名|近藤 良生 （Kondo Yoshio）|
+|生年月日|1997年3月10日|
+|GitHub|[yoshio15](https://github.com/yoshio15)|
+|Twitter|[@yoshio_15](https://twitter.com/yoshio_15)|
+|Qiita|[@oihsoy](https://qiita.com/oihsoy)|
+|Zenn|[yoshio](https://zenn.dev/yoshio)|
+|Blog|[yoshionote](https://yoshionote.com/)|
 
 ## 概要
 直近では、Javaを用いたWebアプリケーションの開発に携わっております。  
@@ -19,10 +19,10 @@
 ## スキル
 
 ## 略歴
-| 年月 | 略歴 |
-| --- | ----- |
-| 2019.03 | 筑波大学人文・文化学群比較文化学類 卒業 |
-| 2019.04 | 株式会社ケアリッツ・アンド・パートナーズ 入社 |
+|年月|略歴|
+|---|---|
+|2019.03|筑波大学人文・文化学群比較文化学類 卒業|
+|2019.04|株式会社ケアリッツ・アンド・パートナーズ 入社|
 
 ## 職務経歴
 ### 株式会社ケアリッツ・アンド・パートナーズ（2019/04~）
