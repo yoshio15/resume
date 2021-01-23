@@ -8,7 +8,7 @@
 | Twitter | [@yoshio_15](https://twitter.com/yoshio_15) |
 | Qiita | [@oihsoy](https://qiita.com/oihsoy) |
 | Zenn | [yoshio](https://zenn.dev/yoshio) |
-| Blog | [yoshionote](https://yoshionote.com/) |
+| Blog | [Yoshio Note](https://yoshionote.com/) |
 
 ## 概要
 直近では、Javaを用いたWebアプリケーションの開発に携わっております。  
@@ -88,7 +88,25 @@ SESエンジニアとしてSI企業のもとで複数の案件に参画。
 
 ## 業務外活動
 ### 個人開発
+#### Webアプリ
+##### First-Step
+HTMLファイルを共有できるサービス。インフラ含め初めて一人で作成したWebサービス。
+- リポジトリ（フロントエンド）：https://github.com/yoshio15/first-step
+- リポジトリ（バックエンド・インフラ）：https://github.com/yoshio15/first-step-backend
+
+##### Yoshio Note
+元々WordPressにて運営していたブログをGatsbyJS×Netlifyに乗り換え。
+- リポジトリ：https://github.com/yoshio15/yoshio-note
+- URL：https://yoshionote.com
+
+#### Vimプラグイン
+##### vim-trello
+Vim上でTrelloを使ってタスク管理を行うことができるようにするプラグイン。
+- リポジトリ：https://github.com/yoshio15/vim-trello
+
 ### OSS活動
+普段利用しているOSSのVimプラグインに対するPR(マージ済み)が1件。これからもっと増やしていきたい。
+- 参考（PR：https://github.com/skanehira/gh.vim/pull/72）
 
 ## 自己PR
 ### キャリアプラン
