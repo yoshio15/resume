@@ -142,8 +142,11 @@ Vimプラグイン。Vim上でTrelloを使ってタスク管理を行うこと�
 - リポジトリ：https://github.com/yoshio15/vim-trello
 
 ### OSS活動
-普段利用しているVimプラグインに対するPRが複数件。これからもっと増やしていきたい。  
-- [skanehira/gh.vim](https://github.com/skanehira/gh.vim/pull/72)
+普段利用しているVimプラグインに対するPRが複数件。  
+- [skanehira/gh.vim](https://github.com/skanehira/gh.vim)
+    - 例）
+    - https://github.com/skanehira/gh.vim/pull/87
+    - https://github.com/skanehira/gh.vim/pull/77
 
 ### 技術記事投稿
 QiitaやZenn、個人ブログへ技術記事を投稿している。
