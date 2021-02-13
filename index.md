@@ -143,7 +143,7 @@ Vimプラグイン。Vim上でTrelloを使ってタスク管理を行うこと�
 
 ### OSS活動
 普段利用しているVimプラグインに対するPRが複数件。  
-- [skanehira/gh.vim](https://github.com/skanehira/gh.vim)
+- [skanehira/gh.vim](https://github.com/skanehira/gh.vim)（2021年2月からメンテナ）
     - 例）
     - https://github.com/skanehira/gh.vim/pull/87
     - https://github.com/skanehira/gh.vim/pull/77
